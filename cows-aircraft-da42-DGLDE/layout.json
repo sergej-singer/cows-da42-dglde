@@ -1,0 +1,114 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/aircraft.cfg",
+      "size": 1950,
+      "date": 133648288333837217
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/model.NOTAIL/model.CFG",
+      "size": 654,
+      "date": 133594979010000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_AUSTROVI_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_AUSTROVI_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_FUSELAGE2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_FUSELAGE2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_FUSELAGEVI1_ALBD.PNG.DDS",
+      "size": 11184936,
+      "date": 133648561045261213
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_FUSELAGEVI1_ALBD.PNG.DDS.json",
+      "size": 104,
+      "date": 133648561045383716
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_LIGHTHOUSEVI_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_LIGHTHOUSEVI_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_VIOTHER_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_VIOTHER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_WING2_ALBD.PNG.DDS",
+      "size": 11184936,
+      "date": 133648561064638818
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/42V2_WING2_ALBD.PNG.DDS.json",
+      "size": 104,
+      "date": 133648561064753514
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/DA42COCKBAKE_CABIN2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/DA42COCKBAKE_CABIN2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/IP.PNG.dds",
+      "size": 89478612,
+      "date": 133597406977516539
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/IP.PNG.DDS.json",
+      "size": 127,
+      "date": 133597406991463538
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/PANEL42_MATERIAL.042_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/PANEL42_MATERIAL.042_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133635672000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/texture.CFG",
+      "size": 51,
+      "date": 133594978550000000
+    },
+    {
+      "path": "SimObjects/Airplanes/DA426_DGLDE/texture.DGLDE/thumbnail.jpg",
+      "size": 72589,
+      "date": 133597439285955406
+    }
+  ]
+}
